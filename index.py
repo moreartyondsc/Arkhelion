@@ -918,4 +918,4 @@ async def administrateur(ctx):
     # Envoyez l'embed dans le canal où la commande a été exécutée
     await ctx.send(embed=embed)
 
-bot.run('ODQ0NTUxOTY4NDc4NzI0MTI2.GGr0Ep.RfULP2WiKOVsTUMaRkwfinjV8tzun6R8cfHvEE')
+bot.run('XXXX')
